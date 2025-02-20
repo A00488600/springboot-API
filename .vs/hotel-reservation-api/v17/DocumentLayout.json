@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\resources\\application.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\resources\\application.properties||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\service\\HotelService.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\example\\hotel\\service\\HotelService.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\model\\Hotel.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\example\\hotel\\model\\Hotel.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelReservationApiApplicationTests.java",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java",
+              "RelativeToolTip": "src\\test\\java\\com\\example\\hotel\\HotelReservationApiApplicationTests.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-20T03:15:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelService.java",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\service\\HotelService.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\example\\hotel\\service\\HotelService.java",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\service\\HotelService.java",
+              "RelativeToolTip": "src\\main\\java\\com\\example\\hotel\\service\\HotelService.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-20T00:59:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelRepository.java",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java",
+              "RelativeToolTip": "src\\main\\java\\com\\example\\hotel\\repository\\HotelRepository.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-20T00:59:11.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hotel.java",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\model\\Hotel.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\example\\hotel\\model\\Hotel.java",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\model\\Hotel.java",
+              "RelativeToolTip": "src\\main\\java\\com\\example\\hotel\\model\\Hotel.java",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-20T00:58:25.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.properties",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\resources\\application.properties",
+              "RelativeDocumentMoniker": "src\\main\\resources\\application.properties",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\resources\\application.properties",
+              "RelativeToolTip": "src\\main\\resources\\application.properties",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T00:57:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelController.java",
+              "DocumentMoniker": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java",
+              "ToolTip": "C:\\Users\\Vishnu Teja\\Downloads\\hotel-reservation-api\\hotel-reservation-api\\src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java",
+              "RelativeToolTip": "src\\main\\java\\com\\example\\hotel\\controller\\HotelController.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-20T00:55:36.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
